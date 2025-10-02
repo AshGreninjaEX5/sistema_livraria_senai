@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PancinhaBR/Backend.git"
+    "url": "git+https://github.com/AshGreninjaEX5/sistema_livraria_senai.git"
   },
   "bugs": {
-    "url": "https://github.com/PancinhaBR/Backend/issues"
+    "url": "https://github.com/AshGreninjaEX5/sistema_livraria_senai.git"
   },
-  "homepage": "https://github.com/PancinhaBR/Backend#readme"
+  "homepage": "https://github.com/AshGreninjaEX5/sistema_livraria_senai.git"
 }
